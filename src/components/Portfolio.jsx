@@ -23,7 +23,7 @@ const projects = [
         title: "File Validator Tool",
         category: "Utility / DevTools",
         description: "Professional utility tool for validating and verifying uploaded files, ensuring data integrity and security.",
-        image: "../public/image.png",
+        image: "/image.png",
         link: "filecheckertool.netlify.app",
         tags: ["Django", "Tooling", "Netlify"]
     },

@@ -7,7 +7,7 @@ const projects = [
         title: "Sharoma Candles",
         category: "E-Commerce / UI / UX",
         description: "A product-focused e-commerce platform with a clean, minimal design tailored for premium candle enthusiasts.",
-        image: "../public/sharoma.png",
+        image: "/sharoma.png",
         link: "https://sh-candles.vercel.app/",
         tags: ["React", "Vercel", "E-commerce"]
     },
@@ -15,7 +15,7 @@ const projects = [
         title: "AiFilmz",
         category: "AI / SaaS / Video",
         description: "Cutting-edge platform for AI-powered ad film and video generation, empowering brands with automated creativity.",
-        image: "../public/Aifilmz.png",
+        image: "/Aifilmz.png",
         link: "https://aifilmz.com/",
         tags: ["React", "Video Gen", "Branding"]
     },
@@ -47,7 +47,7 @@ const projects = [
         title: "PrimePick",
         category: "E-Commerce / UI / UX",
         description: "Streamlined CRUD-based application for efficient database handling and management across large datasets.",
-        image: "../public/primepick2.png",
+        image: "/primepick2.png",
         link: "https://primepick.co.in/",
         tags: ["E-Commerce", "UI / UX", "Shopyfy"]
     },
@@ -55,7 +55,7 @@ const projects = [
         title: "Peravali Foods",
         category: "E-Commerce / UI / UX",
         description: "Streamlined CRUD-based application for efficient database handling and management across large datasets.",
-        image: "../public/peravali2.png",
+        image: "/peravali2.png",
         link: "https://peravalifoods.com/",
         tags: ["E-Commerce", "UI / UX", "Shopyfy"]
     }
